@@ -1,0 +1,7 @@
+.editable-input {
+  height: 38px;
+  width: max-content;
+}
+.editable-textarea {
+  height: 120px;
+}

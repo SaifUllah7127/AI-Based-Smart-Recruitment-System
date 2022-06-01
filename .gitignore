@@ -1,0 +1,14 @@
+# OS Files
+Thumbs.db
+.DS_Store
+
+# node.js
+node_modules
+*-lock.json
+recruitle/client/build/**
+recruitle/db
+recruitle/db/users.db
+recruitle/config.js
+recruitle/.vscode/settings.json
+recruitle/database/config.js
+recruitle/my_env.list
